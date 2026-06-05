@@ -60,10 +60,7 @@ Ready-made UI blocks and wallet connectivity. Package: `@trustless-work/blocks`
 
 We welcome PRs. Fork a repo, branch from `develop`, keep changes focused, and open a pull request.
 
-- **Tasks & bounties** - [GrantFox](https://www.grantfox.xyz/)
-- **Contributor guide** - [docs](https://docs.trustlesswork.com/trustless-work/community-and-contribution/get-involved)
+- **Tasks & bounties** - [GrantFox](https://contribute.grantfox.xyz/org/Trustless-Work)
 - **Community** - [Telegram](https://t.me/+kmr8tGegxLU0NTA5)
 
 ---
-
-Built on [Stellar](https://stellar.org) | Powered by [Soroban](https://soroban.stellar.org)
