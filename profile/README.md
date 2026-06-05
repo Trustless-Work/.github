@@ -9,7 +9,7 @@
 Infrastructure for programmable transaction coordination.  
 Define who must do what before funds move - then encode it into a smart escrow.
 
-[**Website**](https://trustlesswork.com) | [**Docs**](https://docs.trustlesswork.com/trustless-work/introduction/developer-resources) | [**Backoffice**](https://dapp.trustlesswork.com) | [**Demo**](https://demo.trustlesswork.com) | [**GrantFox**](https://www.grantfox.xyz/)
+[**Website**](https://trustlesswork.com) | [**Docs**](https://docs.trustlesswork.com) | [**Backoffice**](https://dapp.trustlesswork.com) | [**Demo**](https://demo.trustlesswork.com)
 
 ---
 
